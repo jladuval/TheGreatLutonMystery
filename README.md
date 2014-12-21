@@ -2,9 +2,9 @@ TheGreatLutonMystery
 ====================
 This is a murder mystery party written over the course of a few months. 
 
-I'm opening this up for people to use and contribute to, as it seems like a waste to let it die after only playing it once.
+I'm opening this up for people to use and improve however they like, as it seems like a waste to let it die after only playing it once.
 
-File format is .odt so github doesn't display 
+File format is .odt. This was partially chosen because of the fact that github won't display it so guests can't inadvertently stumble upon this repo and browse through the characters. 
 
 Players: 27 playable characters + 2 hosts
 
@@ -23,3 +23,4 @@ Cutting out character abilities, illnesses, money and items takes a very long ti
 
 Half way through the night there is a town dance. Many characters have goals related to it. You can use anything, but here is a helpful list of medieval dances to make the decision easier.
 http://middlegate.atlantia.sca.org/Library/MedievalDanceforVillageIdiots.pdf
+
